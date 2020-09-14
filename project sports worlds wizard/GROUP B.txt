@@ -1,0 +1,31 @@
+            
+           GROUP B : PORTUGALL || SPAIN || MOROCCO || IRAN
+
+            
+            Portugal Vs Spain
+            Date       Time     Venue
+            15/06/18   6:00pm   Sochi
+
+            Morocco Vs Iran
+            Date       Time     Venue
+            15/06/18   9:00pm   St Petersburg
+
+
+            Portugal vs Morocco
+            Date       Time     Venue
+            20/06/18   12:00am   Luzhniki
+
+
+            Iran Vs Spain
+            Date       Time     Venue
+            20/06/18   6:00pm   Kazan
+
+
+            Iran Vs Portugal
+            Date       Time     Venue
+            25/06/18   6:00pm   Saransk
+
+
+            Spain Vs Morocco
+            Date       Time     Venue
+            25/06/18   6:00pm   Kaliningrad

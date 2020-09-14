@@ -1,0 +1,26 @@
+                
+
+                Position             Player Name                 Loan/Transfer
+                GK	             Keylor Navas                No
+                DF	             Dani Carvajal               No
+                DF	             Jesus Vallejo               Transfer    
+                DF	             Sergio Ramos                No     
+                DF	             Raphael Varane              No     
+                DF	             Nacho                       Transfer     
+                FW	             Cristiano Ronaldo           No     
+                MF	             Toni Kroos                  No     
+                FW	             Karim Benzema               No     
+                MF	             Luka Modric                 No
+                FW	             Gareth Bale                 No
+                DF	             Marcelo                     No    
+                GK	             Kiko Casilla                Transfer
+                MF	             Casemiro                    No
+                DF	             Theo Hernández              On Loan    
+                FW	             Lucas Vazquez               Transfer    
+                DF	             Achraf Hakimi               Transfer    
+                Mid Fielder          Marco Asensio               No    
+                FW	             Borja Mayoral               Transfer
+                MF	             Isco                        No    
+                MF	             Mateo Kovacic               No    
+                MF	             Dani Ceballos               No    
+                GK	             Luca Zidane                 No

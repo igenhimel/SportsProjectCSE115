@@ -1,0 +1,24 @@
+                          PRIS SAINT GERMAN 
+
+
+Position          Player Name           Loan/Transfer
+______________________________________________________
+GK                kevin Trapp           No
+DF	          Thiago Silva          No   
+DF	          Presnel Kimpembe      No     
+DF	          Marquinhos            No     
+MF	          Marco Verratti        No     
+MF	          Thiago Motta          No     
+FW	          Edinson Cavani        No     
+FW	          Neymar                No     
+MF	          Angel Di María        No     
+DF	          Thomas Meunier        No
+DF	          Yuri Berchiche        No  
+MF	          Giovani Lo Celso      No    
+MF	          Lassana Diarra        No 
+DF	          Layvin Kurzawa        Transfer
+MF	          Christopher Nkunku    No    
+MF	          Adrien Rabiot         No    
+MF	          Javier Pastore        No    
+FW	          Kylian Mbappe         ON LOAN
+DF	          Dani Alves            No 

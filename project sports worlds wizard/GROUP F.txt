@@ -1,0 +1,33 @@
+
+       
+            GROUP F : GERMANY || MEXICO || SWEDEN || KOREA REPUBLIC
+
+            Germany v Mexico
+            Date       Time     Venue
+            17/06/18   6:00pm   Luzhniki
+
+
+            Sweden v Korea Republic
+            Date       Time     Venue
+            18/06/18   6:00pm  Nizhny Novgorod
+
+
+            Germany v Sweden
+            Date       Time     Venue
+            23/06/18   9:00pm   Sochi
+
+
+            Korea Republic v Mexico
+            Date       Time     Venue
+            23/06/18   6:00pm   Rostov-on-Don
+
+
+            Korea Republic v Germany
+            Date       Time      Venue
+            27/06/18   8:00pm   Kazan
+
+
+            Mexico v Sweden
+            Date      Time     Venue
+            27/06/18   8:00pm   Ekaterinburg
+            

@@ -1,0 +1,29 @@
+
+ Position          Player Name                   Loan/Transfer
+ _____________________________________________________________                                                                                            
+ GK                David de Gea                  No                                                                                                       
+ DF                Victor Lindelöf               No                                                                                               
+ DF                Eric Bailly                   No                                                                                                
+ DF                Phil Jones                    No                                                                                              
+ DF                Marcos Rojo                   No                                                                                                  
+ MF                Paul Pogba                    No                                                                                                 
+ FW                Alexis Sanchez                No                                                                                               
+ MF                Juan Mata                     No                                                                                             
+ FW                Romelu Lukaku                 No                                                                                           
+ FW                Anthony Martial               No                                                                                              
+ DF                Chris Smalling                No                                                                                               
+ MF                Jesse Lingard                 No                                                                                             
+ MF                Michael Carrick               No                                                                                       
+ DF                Daley Blind                   No                                                                                             
+ MF                Ashley Young                  No                                                                                         
+ FW                Marcus Rashford               No                                                                                         
+ GK                Sergio Romero                 No                                                                                          
+ MF                Ander Herrera                 No                                                                                         
+ DF                Luke Shaw                     No                                                                                              
+ DF                Antonio Valencia              No                                                                                            
+ MF                Marouane Fellaini             No                                                                                     
+ MF                Nemanja Matic                 No                                                                                           
+ DF                Matteo Darmian                No                                                                                          
+ MF                Scott McTominay               No                                                                                          
+ GK                Joel Castro Pereira           No                                                                                        
+ DF                Cameron Borthwick-Jackson     No  

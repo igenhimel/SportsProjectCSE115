@@ -1,0 +1,29 @@
+  
+
+
+ Position           Player Name                   Loan/Transfer    
+ ______________________________________________________________                                                                                        
+ GK                 Willy Caballero               No                                                                                                   
+ DF                 Antonio RUdiger               No                                                                                              
+ DF                 Marcos Alonso                 No                                                                                            
+ MF                 Cesc Fabregas                 No                                                                                               
+ MF                 Danny Drinkwater              Transfer                                                                                       
+ MF                 N'Golo Kante                  No                                                                                              
+ MF                 Ross Barkley                  No                                                                                               
+ FW                 Álvaro Morata                 No                                                                                              
+ MF                 Eden Hazard                   No                                                                                               
+ MF                 Pedro                         No                                                                                                       
+ GK                 Thibaut Courtois              No                                                                                               
+ MF                 Tiémoue Bakayoko              No                                                                                               
+ DF                 Victor Moses                  No                                                                                              
+ FW                 Olivier Giroud                Transfer                                                                                         
+ DF                 Davide Zappacosta             Transfer                                                                                   
+ MF                 Willian                       No                                                                                                
+ DF                 Gary Cahill                   No                                                                                               
+ DF                 Andreas Christensen           No                                                                                       
+ DF                 César Azpilicueta             No                                                                                         
+ DF                 David Luiz                    No                                                                                                
+ DF                 Emerson                       No                                                                                                
+ MF                 Kyle Scott                    Transfer                                                                                             
+ GK                 Eduardo                       No                                                                                                    
+ MF                 Ethan Ampadu                  Transfer  

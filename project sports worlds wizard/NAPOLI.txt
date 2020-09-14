@@ -1,0 +1,26 @@
+
+
+Position          Player Name           Loan/Transfer
+_______________________________________________________
+GK	          Rafael Cabral          No
+MF	          Allan                  No
+DF	          Mario Rui              No     
+FW	          Jose Callejon          No     
+MF	          Jorginho               No     
+DF	          Christian Maggio       No     
+FW	          Dries Mertens          No     
+MF	          Marek Hamsik           No     
+FW	          Leandrinho             No     
+DF	          Hrvoje Milic           No
+MF	          Piotr Zielinski        Transfer
+DF	          Vlad Chiriches         No    
+DF	          Elseid Hysaj           No
+FW	          Lorenzo Insigne        No
+DF	          Kalidou Koulibaly      No    
+MF	          Zinedine Machach       No    
+MF	          arko Rog               No    
+DF	          Faouzi Ghoulam         No    
+DF	          Raul Albiol            No
+MF	          Adam Ounas             No    
+MF	          Amadou Diawara         No    
+DF	          Lorenzo Tonelli        No    

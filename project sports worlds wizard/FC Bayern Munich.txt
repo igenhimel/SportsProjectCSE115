@@ -1,0 +1,31 @@
+
+
+Position              Player Name                 Loan/Transfer
+__________________________________________________________________
+GK	              Manuel Neuer                 No
+FW	              Sandro Wagner                No
+DF	              Niklas Sule                  No     
+DF	              Mats Hummels                 No     
+MF	              Thiago                       No     
+MF	              Franck Ribéry                No     
+DF	              Javi Martinez                No     
+FW	              Robert Lewandowski           No     
+MF	              Arjen Robben                 No     
+MF	              James Rodriguez              On loan
+DF	              Rafinha                      No
+DF	              Juan Bernat                  No    
+DF	              Lars Lukas Mai               Transfer
+DF	              Jerome Boateng               No
+MF	              Sebastian Rudy               No    
+DF	              Felix Gotze                  No    
+GK	              Tom Starke                   No    
+MF	              Arturo Vidal                 Transfer     
+MF	              Corentin Tolisso             Transfer
+FW	              Thomas Muller                No    
+GK	              Sven Ulreich                 No    
+DF	              David Alaba                  No    
+MF	              Kingsley Coman               No    
+MF                    Niklas Dorsch                No    
+DF	              Joshua Kimmich               No    
+GK	              Christian Früchtl            No    
+MF	              Fabian Benko                 No

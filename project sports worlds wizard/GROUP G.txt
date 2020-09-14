@@ -1,0 +1,35 @@
+            
+
+            GROUP G : BELGIUM || PANAMA || TUNISIA || ENGLAND
+
+            Belgium v Panama
+            Date       Time     Venue
+            18/06/18   9:00pm   Sochi
+
+
+            Tunisia v England
+            Date       Time      Venue
+            18/06/18   12:00am   Volgograd
+
+
+            Belgium v Tunisia
+            Date       Time      Venue
+            23/06/18   6:00pm    Spartak
+
+
+            England v Panama
+            Date       Time     Venue
+            24/06/18   6:00pm   Nizhny Novgorod
+
+
+
+            England v Belgium
+            Date       Time      Venue
+            28/06/18   12:00am   Kaliningrad
+
+
+            Panama v Tunisia
+            Date      Time     Venue
+            28/06/18   12:00am   Saransk
+           
+

@@ -1,0 +1,25 @@
+ 
+
+
+                Position             Player Name                 Loan/Transfer
+
+                DF	             Diego Godín                 No
+                DF	             Filipe Luis                 No
+                MF	             Thomas Partey               Transfer    
+                MF	             Koke                        No    
+                FW	             Antoine Griezmann           No    
+                MF	             Saul Niguez                 Transfer     
+                FW	             Fernando Torres             No     
+                FW	             Angel Correa                No    
+                GK	             Jan Oblak                   No     
+                MF	             Gabi                        No
+                DF	             Stefan SaviC                Transfer 
+                DF	             sime Vrsaljko               No    
+                FW	             Diego Costa                 Transfer
+                DF	             Lucas Hernández             No
+                DF	             Juanfran                    No   
+                FW	             Kevin Gameiro               Transfer    
+                MF	             Vitolo                      Transfer   
+                DF	             Jose Gimenez                No    
+                FW	             Borja Mayoral               Transfer
+                GK	             Axel Werner                 No  

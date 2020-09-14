@@ -1,0 +1,28 @@
+               
+
+
+                Position          Player Name                        Loan/Transfer 
+                DF                Per Mertesacker                    No
+                DF                Laurent Koscielny                  No
+                MF                Henrikh Mkhitaryan                 No     
+                MF                Aaron Ramsey                       No     
+                FW                Alexandre Lacazette                No  
+                MF                Jack Wilshere                      No    
+                MF                Mesut Ozil                         No    
+                GK                David Ospina                       No    
+                FW	          Pierre-Emerick Aubameyang          No   
+                DF	          Rob Holding                        Transfer
+                FW	          Alex Iwobi                         Transfer
+                DF	          Nacho Monreal                      No   
+                MF	          Santi Cazorla                      Transfer
+                DF	          Shkodran Mustafi                   Transfer
+                DF	          Calum Chambers                     No    
+                FW	          Danny Welbeck                      No 
+                DF	          Héctor Bellerin                    No    
+                DF	          Konstantinos Mavropanos            No    
+                MF	          Granit Xhaka                       Transfer
+                MF	          Ainsley Maitland-Niles             No    
+                DF	          Sead Kolasinac                     No    
+                GK	          Petr Cech                          No    
+                MF	          Mohamed Elneny                     No   
+                

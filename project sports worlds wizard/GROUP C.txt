@@ -1,0 +1,32 @@
+            
+            GROUP: FRANCE || AUSTRALIA || PERU || DENMARK
+
+            France Vs Australia
+            Date       Time     Venue
+            16/06/18   4:00pm   Kazan
+
+
+            Peru Vs Denmark
+            Date       Time     Venue
+            16/06/18   5:00pm   Saransk
+
+
+            France vs Peru
+            Date       Time     Venue
+            21/06/18   6:00pm   Ekaterinburg
+
+
+            Denmark Vs Australia
+            Date      Time    Venue
+            21/06/18  9:00pm  Samara
+
+
+            Denmark Vs France
+            Date       Time     Venue
+            26/06/18   8:00pm   Luzhniki
+
+
+            Australia Vs Peru
+            Date      Time     Venue
+            26/06/18   8:00pm   Sochi
+            

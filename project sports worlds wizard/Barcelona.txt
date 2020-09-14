@@ -1,0 +1,48 @@
+                 
+
+                Position          Player Name                    Loan/Transfer
+                ______________________________________________________________
+
+                Goalkeeper        Marc-Andre ter Stegen          Transfer
+
+                Defence           Nélson Semedo                  Transfer
+
+                Defence           Gerard Piqué                   No 
+   
+                Mid Fielder       Ivan Rakitic                   No
+     
+                Mid Fielder       Sergio Busquets                No 
+    
+                Mid Fielder       Denis Suárez                   No 
+    
+                Mid Fielder       Andrés Iniesta                 No
+     
+                FW                Luis Suárez                    No 
+    
+                FW                Lionel Messi                   No
+     
+                FW                Ousmane Dembélé                Transfer
+
+                GK                Jasper Cillessen               Transfer
+
+                MF                Philippe Coutinho              No
+    
+                MF                Paulinho                       Transfer
+
+                FW                Paco Alcácer                   Transfer
+
+                DF                Jordi Alba                     No  
+  
+                DF                Lucas Digne                    No   
+ 
+                MF                Sergi Roberto                  No  
+  
+                MF                André Gomes                    No 
+   
+                MF                Aleix Vidal                    Transfer
+
+                DF                Samuel Umtiti                  No  
+  
+                DF                Yerry Mina                     No  
+ 
+                DF                Thomas Vermaelen               No    

@@ -1,0 +1,33 @@
+
+
+
+
+Position              Player Name                 Loan/Transfer
+______________________________________________________________
+GK	              Roman Weidenfeller          No
+DF	              Dan-Axel Zagadou            No
+MF	              Jadon Sancho                No     
+MF	              Nuri Sahin                  No     
+FW	              Andriy Yarmolenko           No     
+MF	              Mario Gotze                 No     
+FW	              Marco Reus                  No     
+DF	              Raphael Guerreiro           No     
+FW	              Alexander Isak              No     
+DF	              Jeremy Toljan               NO
+DF	              Manuel Akanji               Transfer
+MF                    Sebastian Rode              No    
+MF	              Mahmoud Dahoud              Transfer
+FW	              Maximilian Philipp          No
+MF	              Andre Schurrle              No    
+MF	              Christian Pulisic           No    
+MF	             Shinji Kagawa                No    
+DF	             Sokratis Papastathopoulos    No    
+DF	              lukasz Piszczek             No
+MF	              Gonzalo Castro              No    
+DF	              Marcel Schmelzer            No    
+MF	              Julian Weigl                No    
+GK	             Dominik Reimann              No    
+DF	              Omer Toprak                 No    
+DF	              Erik Durm                   No    
+GK	             Roman BUrki                  No    
+FW	             Michy Batshuayi               on loan

@@ -1,0 +1,28 @@
+
+
+Position             Player Name                Loan/Transfer
+_____________________________________________________________                                                                                            
+GK                   Claudio Bravo              No                                                                                                    
+DF                   Kyle Walker                Transfer                                                                                        
+DF                   Danilo                     No                                                                                                
+DF                   Vincent Kompany            No                                                                                          
+DF                   John Stones                No                                                                                             
+MF                   Raheem Sterling            No                                                                                          
+MF                   Ilkay Gundogan             No                                                                                           
+FW                   Sergio Aguero              No                                                                                          
+DF                   Aymeric Laporte            No                                                                                          
+MF                   Kevin De Bruyne            No                                                                                               
+MF                   Fabian Delph               Transfer                                                                                         
+MF                   Leroy Sane                 No                                                                                              
+MF                   Bernardo Silva             Transfer                                                                                    
+MF                   David Silva                No                                                                                           
+DF                   Benjamin Mendy             No                                                                                        
+DF                   Tosin Adarabioyo           No                                                                                        
+MF                   Fernandinho                No                                                                                             
+DF                   Nicolaa Otamendi           No                                                                                        
+GK                   Ederson                    Transfer                                                                                         
+FW                   Gabriel Jesus              No                                                                                          
+MF                   Oleksandr Zinchenko        No                                                                                    
+MF                   Yaya Toure                 No                                                                                              
+MF                   Phil Foden                 No                                                                                         
+MF                   Brahim Diaz                No  

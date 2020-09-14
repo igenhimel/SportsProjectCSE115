@@ -1,0 +1,34 @@
+            
+
+
+            GROUP H: POLAND || SENEGAL || COLOMBIA || JAPAN
+
+            Poland v Senegal
+            Date      Time     Venue
+            18/06/18   6:00pm  Spartak
+
+
+            Colombia v Japan
+            Date       Time     Venue
+            19/06/18   9:00pm   Saransk
+
+
+            Japan v Senegal
+            Date       Time     Venue
+            24/06/18   9:00pm   Ekaterinburg
+
+
+            Poland v Colombia
+            Date       Time      Venue
+            24/06/18   12:00pm   Kazan
+
+
+
+            Japan v Poland
+            Date       Time     Venue
+            28/06/18   8:00pm   Volgograd\
+
+
+            printf("Senegal Vs Colombia\n");
+            printf("Date      Time     Venue\n");
+            printf("28/06/18   8:00pm   Samara");

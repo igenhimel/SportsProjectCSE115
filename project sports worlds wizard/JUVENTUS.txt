@@ -1,0 +1,26 @@
+
+
+Position           Player Name            Loan/Transfer
+_______________________________________________________
+GK	           Gianluigi Buffon         No
+DF	           Mattia De Sciglio        No
+DF	           Giorgio Chiellini        No     
+DF	           Medhi Benatia            No     
+MF	           Miralem Pjanic           No     
+MF	           Sami Khedira             No     
+MF	           Juan Cuadrado            No     
+MF	           Claudio Marchisio        No     
+FW	           Gonzalo Higuain          No     
+FW	           Paulo Dybala             No
+FW	           Douglas Costa            On loan
+DF	           Alex Sandro              No    
+MF	           Blaise Matuidi           Transfer
+DF	           Andrea Barzagli          No
+GK	           Carlo Pinsoglio          No    
+FW	           Mario Mandzukic          No    
+DF	           Benedikt Howedes         On loan    
+MF	           Kwadwo Asamoah           No    
+GK	           Wojciech Szczesny        No
+DF	           Daniele Rugani           No    
+DF	           Stephan Lichtsteiner     No    
+MF	           Stefano Sturaro          No   
